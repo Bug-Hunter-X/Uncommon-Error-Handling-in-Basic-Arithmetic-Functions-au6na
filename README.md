@@ -1,0 +1,3 @@
+# Uncommon Error Handling in Basic Arithmetic Functions
+This repository demonstrates a common coding error in JavaScript related to error handling in arithmetic operations. Specifically, the initial code lacks robust handling of potential exceptions, such as division by zero or calculating the square root of a negative number.
+The `bug.js` file contains the initial faulty code, while `bugSolution.js` presents a corrected version with improved error handling and input validation.
